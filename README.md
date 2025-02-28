@@ -84,6 +84,18 @@ streamlit run app.py
 - **Graphical analysis** improved understanding of stock price movements.
 - **Potential Improvements** include additional financial indicators for accuracy.
 
+## Screenshots
+### Prediction Results Page:
+![Stock Forecasting](image1.png)
+
+### Historical Stock Data:
+![Stock Price Timeline](image2.png)
+
+### Moving Average Analysis:
+![Closing Price Trend](image3.png)
+
+### LSTM Prediction vs Actual:
+![Actual vs Predicted](image4.png)
 
 
 
@@ -94,5 +106,3 @@ streamlit run app.py
 - [Streamlit Documentation](https://docs.streamlit.io/)
 - [Yahoo Finance API](https://python-yahoofinance.readthedocs.io/en/latest/api.html)
 - [LSTM Algorithm](https://www.geeksforgeeks.org/long-short-term-memory-networks-explanation/)
-
-
