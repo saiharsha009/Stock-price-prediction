@@ -85,17 +85,12 @@ streamlit run app.py
 - **Potential Improvements** include additional financial indicators for accuracy.
 
 ## Screenshots
-### Prediction Results Page:
-![Stock Forecasting](image1.png)
-
-### Historical Stock Data:
-![Stock Price Timeline](image2.png)
-
-### Moving Average Analysis:
-![Closing Price Trend](image3.png)
-
-### LSTM Prediction vs Actual:
-![Actual vs Predicted](image4.png)
+https://github.com/saiharsha009/Stock-price-prediction/blob/master/images/stock.PNG
+https://github.com/saiharsha009/Stock-price-prediction/blob/master/images/2.PNG
+https://github.com/saiharsha009/Stock-price-prediction/blob/master/images/3.PNG
+https://github.com/saiharsha009/Stock-price-prediction/blob/master/images/4.PNG
+https://github.com/saiharsha009/Stock-price-prediction/blob/master/images/5.PNG
+https://github.com/saiharsha009/Stock-price-prediction/blob/master/images/6.PNG
 
 
 
