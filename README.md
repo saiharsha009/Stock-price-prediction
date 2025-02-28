@@ -95,5 +95,4 @@ streamlit run app.py
 - [Yahoo Finance API](https://python-yahoofinance.readthedocs.io/en/latest/api.html)
 - [LSTM Algorithm](https://www.geeksforgeeks.org/long-short-term-memory-networks-explanation/)
 
----
-Let me know if any modifications are needed! 🚀
+
