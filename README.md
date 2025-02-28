@@ -85,7 +85,7 @@ streamlit run app.py
 - **Potential Improvements** include additional financial indicators for accuracy.
 
 ## Screenshots
-![](images/stock.png)
+![](images/stock.PNG)
 ![](images/2.png)
 ![](images/3.png)
 ![](images/4.png)
