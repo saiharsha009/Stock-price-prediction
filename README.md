@@ -85,12 +85,16 @@ streamlit run app.py
 - **Potential Improvements** include additional financial indicators for accuracy.
 
 ## Screenshots
-https://github.com/saiharsha009/Stock-price-prediction/blob/master/images/stock.PNG
-https://github.com/saiharsha009/Stock-price-prediction/blob/master/images/2.PNG
-https://github.com/saiharsha009/Stock-price-prediction/blob/master/images/3.PNG
-https://github.com/saiharsha009/Stock-price-prediction/blob/master/images/4.PNG
-https://github.com/saiharsha009/Stock-price-prediction/blob/master/images/5.PNG
-https://github.com/saiharsha009/Stock-price-prediction/blob/master/images/6.PNG
+![](images/stock.png)
+![](images/2.png)
+![](images/3.png)
+![](images/4.png)
+![](images/5.png)
+![](images/6.png)
+
+
+
+
 
 
 
