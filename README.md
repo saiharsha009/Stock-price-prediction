@@ -86,11 +86,11 @@ streamlit run app.py
 
 ## Screenshots
 ![](images/stock.PNG)
-![](images/2.png)
-![](images/3.png)
-![](images/4.png)
-![](images/5.png)
-![](images/6.png)
+![](images/2.PNG)
+![](images/3.PNG)
+![](images/4.PNG)
+![](images/5.PNG)
+![](images/6.PNG)
 
 
 
